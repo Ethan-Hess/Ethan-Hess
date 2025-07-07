@@ -76,6 +76,6 @@ Repository: [Link to Project 3 Repository]
 Live Demo (if any): [Link to Live Demo]
 
 🤝 Connect with Me  
-<a href="https://www.linkedin.com/in/ethan-t-hess/" target="_blank">Connect on LinkedIn</a>  
+[Connect with Ethan T. Hess on LinkedIn](https://www.linkedin.com/in/ethan-t-hess/)  
   
 Thanks for stopping by! 😊
