@@ -1,20 +1,19 @@
-<h1 align="center">Hi, I'm Ethan Hess</h1>
+<h1 align="center">Hi, I'm Ethan Hess 👋</h1>
+<p align="center"><strong>Software Engineer · Building real infrastructure for real users</strong></p>
+<p align="center"><em>UVU Software Engineering · Graduating Dec 2026</em></p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6B9CF7&center=true&vCenter=true&width=600&lines=Mobile+Engineer+%F0%9F%93%B1;Building+real+infrastructure+for+real+users;UVU+SWE+%C2%B7+FYT+%C2%B7+Dec+2026" alt="Typing SVG" />
-  </a>
+  <a href="https://linkedin.com/in/ethan-t-hess/">LinkedIn</a> ·
+  <a href="mailto:3thanh3ss@gmail.com">Email</a> ·
+  <a href="https://stayfyt.com">FYT</a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ethan-t-hess/">LinkedIn</a> · <a href="mailto:3thanh3ss@gmail.com">Email</a> · <a href="https://stayfyt.com">FYT</a>
-</p>
 
 ## About Me
 
 I'm a software engineering student at Utah Valley University (graduating Dec 2026) with hands-on experience shipping production mobile apps. I care about building things that actually work for real users. Clean architecture, maintainable code, and products people rely on daily.
 
-Currently deepening my expertise in **React Native**, **Flutter/Dart**, and **Firebase**.
+Currently deepening my expertise in **Flutter/Dart** and **Firebase**.
 
 
 
@@ -31,7 +30,7 @@ At **[FYT](https://stayfyt.com)**, I lead mobile development on an app that give
 ## Featured Projects
 
 ### [MotorMinder](https://github.com/Ethan-Hess/The-Backlog-Blackhole)
-A vehicle maintenance tracking app built collaboratively with a team of four. Led the project as primary architect and developer. Designed the full system architecture, implemented MVC with a Singleton data handler, built the CLI, and wrote the core maintenance recommendation logic. Later migrated the stack from Python MVC to React + Firebase, with Firebase hosting and automated deployments via GitHub Actions.
+Vehicle maintenance tracker. Led architecture and core logic for a 4-person team; later migrated Python MVC → React + Firebase with CI/CD via GitHub Actions.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -49,50 +48,31 @@ End-to-end ML pipeline predicting used car prices from a dataset of Indian car l
 
 ## Skills & Technologies
 
-Languages
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-
-
-Mobile & Frontend
-<br>
+**Core (production experience)**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Also familiar with**
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-Backend, Cloud & Databases
-<br>
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-
-
-
-Tooling & DevOps
-<br>
+**Tooling**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 
 
@@ -116,5 +96,6 @@ Tooling & DevOps
 ## Currently
 
 - 🔨 Building production mobile features at FYT
-- 📚 Deepening expertise in React Native and Flutter
-- 👀 Open to internship and new grad SWE opportunities for 2026
+- 📚 Studying distributed systems and scalability
+- 🛠️ Side project: migrating Rate the Refs (a ref-rating app) from React Native + Heroku to Flutter + Firebase, and swapping the previous data source for SportsDB to cut hosting and data costs
+- 👀 Open to SWE internship and new grad opportunities for 2026
