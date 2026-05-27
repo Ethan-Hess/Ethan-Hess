@@ -29,7 +29,7 @@ At **[FYT](https://stayfyt.com)**, I lead mobile development on an app that give
 
 ## Featured Projects
 
-### [MotorMinder](https://github.com/Ethan-Hess/The-Backlog-Blackhole)
+### [Motor Minder](https://github.com/Ethan-Hess/Motor-Minder)
 Vehicle maintenance tracker. Led architecture and core logic for a 4-person team; later migrated Python MVC → React + Firebase with CI/CD via GitHub Actions.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
