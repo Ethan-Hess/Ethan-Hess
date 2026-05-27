@@ -71,8 +71,14 @@ End-to-end ML pipeline predicting used car prices from a dataset of Indian car l
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
+![Firebase CLI](https://img.shields.io/badge/Firebase_CLI-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=flat&logo=apple&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat&logo=githubcopilot&logoColor=white)
 
 
 
