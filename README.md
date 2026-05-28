@@ -22,7 +22,7 @@ Currently deepening my expertise in **Flutter/Dart** and **Firebase**.
 At **[FYT](https://stayfyt.com)**, I lead mobile development on an app that gives gym members seamless check-in and door security access across a nationwide network.
 
 - 📱 End-to-end mobile ownership: architecture, implementation, and deployment
-- 🔐 Real-time BLE door access integrated with gym security infrastructure
+- 🔐 Real-time door access via Cloud Functions calling third-party vendor APIs
 - 🏋️ Serving active users across multiple gym locations nationwide
 
 
