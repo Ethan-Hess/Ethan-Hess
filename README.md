@@ -35,56 +35,56 @@ Led mobile development on an app that gives gym members seamless check-in and do
 ### [Jira Blocker Tree](https://github.com/Ethan-Hess/jira-blocker-tree)
 Chrome extension that adds a collapsible blocker tree to any Jira Cloud issue or epic. It walks epic children and inward "Blocks" links (including cross-project blockers) breadth-first with batched requests, and includes a Lineage view that shows what can run in parallel and what is still waiting on something else. It runs on your existing Jira session, so there's no OAuth, API token, or tenant config.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat&logo=googlechrome&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-2D333B?style=flat&logo=typescript&logoColor=4D8FD9"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-EAEEF2?style=flat&logo=typescript&logoColor=3178C6"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-2D333B?style=flat&logo=react&logoColor=61DAFB"><img alt="React" src="https://img.shields.io/badge/React-EAEEF2?style=flat&logo=react&logoColor=087EA4"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vite-2D333B?style=flat&logo=vite&logoColor=8C92FF"><img alt="Vite" src="https://img.shields.io/badge/Vite-EAEEF2?style=flat&logo=vite&logoColor=646CFF"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Chrome_Extension-2D333B?style=flat&logo=googlechrome&logoColor=4285F4"><img alt="Chrome Extension" src="https://img.shields.io/badge/Chrome_Extension-EAEEF2?style=flat&logo=googlechrome&logoColor=1A73E8"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Jira-2D333B?style=flat&logo=jira&logoColor=4C9AFF"><img alt="Jira" src="https://img.shields.io/badge/Jira-EAEEF2?style=flat&logo=jira&logoColor=0052CC"></picture>
 
 ### [Motor Minder](https://github.com/Ethan-Hess/Motor-Minder)
 Vehicle maintenance tracker. I led the architecture and core logic for a 4-person team, then migrated the app from a Python MVC stack to React and Firebase with CI/CD through GitHub Actions.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-2D333B?style=flat&logo=react&logoColor=61DAFB"><img alt="React" src="https://img.shields.io/badge/React-EAEEF2?style=flat&logo=react&logoColor=087EA4"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Firebase-2D333B?style=flat&logo=firebase&logoColor=FFCA28"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-EAEEF2?style=flat&logo=firebase&logoColor=DD2C00"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub_Actions-2D333B?style=flat&logo=githubactions&logoColor=58A6FF"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-EAEEF2?style=flat&logo=githubactions&logoColor=0969DA"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-2D333B?style=flat&logo=python&logoColor=FFD43B"><img alt="Python" src="https://img.shields.io/badge/Python-EAEEF2?style=flat&logo=python&logoColor=3776AB"></picture>
 
 ## Skills & Technologies
 
 **Core (production experience)**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-2D333B?style=flat&logo=typescript&logoColor=4D8FD9"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-EAEEF2?style=flat&logo=typescript&logoColor=3178C6"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NestJS-2D333B?style=flat&logo=nestjs&logoColor=EA4A6B"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-EAEEF2?style=flat&logo=nestjs&logoColor=E0234E"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-2D333B?style=flat&logo=nodedotjs&logoColor=68AD56"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-EAEEF2?style=flat&logo=nodedotjs&logoColor=367934"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GraphQL-2D333B?style=flat&logo=graphql&logoColor=ED70C3"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-EAEEF2?style=flat&logo=graphql&logoColor=C80087"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flutter-2D333B?style=flat&logo=flutter&logoColor=47C5FB"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-EAEEF2?style=flat&logo=flutter&logoColor=02569B"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Dart-2D333B?style=flat&logo=dart&logoColor=13B9FD"><img alt="Dart" src="https://img.shields.io/badge/Dart-EAEEF2?style=flat&logo=dart&logoColor=0175C2"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Firebase-2D333B?style=flat&logo=firebase&logoColor=FFCA28"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-EAEEF2?style=flat&logo=firebase&logoColor=DD2C00"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-2D333B?style=flat&logo=python&logoColor=FFD43B"><img alt="Python" src="https://img.shields.io/badge/Python-EAEEF2?style=flat&logo=python&logoColor=3776AB"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Google_Cloud-2D333B?style=flat&logo=googlecloud&logoColor=649BF6"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-EAEEF2?style=flat&logo=googlecloud&logoColor=1567D3"></picture>
 
 **Also familiar with**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-2D333B?style=flat&logo=react&logoColor=61DAFB"><img alt="React" src="https://img.shields.io/badge/React-EAEEF2?style=flat&logo=react&logoColor=087EA4"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React_Native-2D333B?style=flat&logo=react&logoColor=61DAFB"><img alt="React Native" src="https://img.shields.io/badge/React_Native-EAEEF2?style=flat&logo=react&logoColor=087EA4"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-2D333B?style=flat&logo=javascript&logoColor=F7DF1E"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-EAEEF2?style=flat&logo=javascript&logoColor=323330"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-2D333B?style=flat&logo=postgresql&logoColor=6DA0CB"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-EAEEF2?style=flat&logo=postgresql&logoColor=345FDF"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-2D333B?style=flat&logo=mysql&logoColor=F29111"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-EAEEF2?style=flat&logo=mysql&logoColor=3E6E93"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind_CSS-2D333B?style=flat&logo=tailwindcss&logoColor=38BDF8"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-EAEEF2?style=flat&logo=tailwindcss&logoColor=0284C7"></picture>
 
 **Tooling**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
-![Firebase CLI](https://img.shields.io/badge/Firebase_CLI-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=flat&logo=apple&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-2D333B?style=flat&logo=git&logoColor=F05032"><img alt="Git" src="https://img.shields.io/badge/Git-EAEEF2?style=flat&logo=git&logoColor=F05032"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub_Actions-2D333B?style=flat&logo=githubactions&logoColor=58A6FF"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-EAEEF2?style=flat&logo=githubactions&logoColor=0969DA"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Cursor-2D333B?style=flat&logo=cursor&logoColor=FFFFFF"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-EAEEF2?style=flat&logo=cursor&logoColor=1F2328"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Claude_Code-2D333B?style=flat&logo=claude&logoColor=D97757"><img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-EAEEF2?style=flat&logo=claude&logoColor=C15F3C"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub_Copilot-2D333B?style=flat&logo=githubcopilot&logoColor=FFFFFF"><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-EAEEF2?style=flat&logo=githubcopilot&logoColor=1F2328"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Podman-2D333B?style=flat&logo=podman&logoColor=BA86DE"><img alt="Podman" src="https://img.shields.io/badge/Podman-EAEEF2?style=flat&logo=podman&logoColor=892CA0"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Firebase_CLI-2D333B?style=flat&logo=firebase&logoColor=FFCA28"><img alt="Firebase CLI" src="https://img.shields.io/badge/Firebase_CLI-EAEEF2?style=flat&logo=firebase&logoColor=DD2C00"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Xcode-2D333B?style=flat&logo=xcode&logoColor=3B99FC"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-EAEEF2?style=flat&logo=xcode&logoColor=147EFB"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Android_Studio-2D333B?style=flat&logo=androidstudio&logoColor=3DDC84"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-EAEEF2?style=flat&logo=androidstudio&logoColor=1E8E3E"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TestFlight-2D333B?style=flat&logo=apple&logoColor=0D96F6"><img alt="TestFlight" src="https://img.shields.io/badge/TestFlight-EAEEF2?style=flat&logo=apple&logoColor=0071E3"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Figma-2D333B?style=flat&logo=figma&logoColor=F24E1E"><img alt="Figma" src="https://img.shields.io/badge/Figma-EAEEF2?style=flat&logo=figma&logoColor=F24E1E"></picture>
 
 ## Education & Certifications
 
